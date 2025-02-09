@@ -15,3 +15,8 @@
 # Тест раны для приложения "Интернет-магазин" (модули корзины, оплаты и оформления заказов)
 [Открыть тест ран 1](https://github.com/Tokarevael/Web/blob/main/Test%20run%201.pdf)
 [Открыть тест ран 2](https://github.com/Tokarevael/Web/blob/main/Test%20run%202.pdf)
+
+# Перехват трафика
+[Изменение количества товара при добавлении в корзину](https://drive.google.com/file/d/16QY3TKNEHfXUD9MyEuyWzs73x0AoQEES/view?usp=sharing)
+[Изменение статус-кода - возврат 403](https://drive.google.com/file/d/1AkzpGGX7GoEvwXVq_KUGkIZvdbe13hcD/view?usp=sharing)
+[Перенаправление запроса с Prod окружения на QA окружение](https://drive.google.com/file/d/1AcKGWXPEWehkiRhZDBoYy9P4i4B-aSaI/view?usp=sharing)
