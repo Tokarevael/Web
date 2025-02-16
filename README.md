@@ -5,13 +5,13 @@
 The following documents were used to create the test plan:  
 application website (https://qa.demoshopping.ru/), project description, information about the risk assessment team, layout and requirements  
 
-[Test plan](https://docs.google.com/spreadsheets/d/1aX48NLybfAhNnKi5ODhGp_955d6_6D-o/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Test plan](https://github.com/Tokarevael/Web/blob/main/Test%20plan.xlsx)
 
 # Checklist for the Online Store app
 
 A checklist for Cart Management and Order Management has been prepared  
 
-[Checklis](https://docs.google.com/spreadsheets/d/195gL_e_58ACCMNcBohtX_TsW1UDPMDcL/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Checklis](https://github.com/Tokarevael/Web/blob/main/Full%20check%20list.xlsx)
 
 # Test cases for the application "Online store" (cart and payment)
 
