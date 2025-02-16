@@ -25,10 +25,10 @@ Chrome Devtools, PerfectPixel and Figma were used for testing.
 
 # Run test for the "Online Store" application (cart, payment and order processing modules)
 
-[Test run 1](https://github.com/Tokarevael/Web/blob/main/Test%20run%201.pdf)
+[Test run 1](https://github.com/Tokarevael/Web/blob/main/Test%20run%201.pdf)   
 [Test run 2](https://github.com/Tokarevael/Web/blob/main/Test%20run%202.pdf)
 
 # Traffic interception
-[Changing the quantity of a product when adding to the cart](https://drive.google.com/file/d/16QY3TKNEHfXUD9MyEuyWzs73x0AoQEES/view?usp=sharing)
-[Status code change - return 403](https://drive.google.com/file/d/1AkzpGGX7GoEvwXVq_KUGkIZvdbe13hcD/view?usp=sharing)
-[Redirecting a request from the Prod environment to the QA environment](https://drive.google.com/file/d/1AcKGWXPEWehkiRhZDBoYy9P4i4B-aSaI/view?usp=sharing)
+[Changing the quantity of a product when adding to the cart](https://drive.google.com/file/d/16QY3TKNEHfXUD9MyEuyWzs73x0AoQEES/view?usp=sharing)   
+[Status code change - return 403](https://drive.google.com/file/d/1AkzpGGX7GoEvwXVq_KUGkIZvdbe13hcD/view?usp=sharing)   
+[Redirecting a request from the Prod environment to the QA environment](https://drive.google.com/file/d/1AcKGWXPEWehkiRhZDBoYy9P4i4B-aSaI/view?usp=sharing)   
